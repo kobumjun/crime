@@ -1,0 +1,19 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node / next
+node_modules/
+.next/
+out/
+dist/
+
+# logs / data
+*.log
+backend/data/jobs/
+backend/data/
+gpu-worker/data/
+
+# mac
+.DS_Store
