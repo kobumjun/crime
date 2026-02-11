@@ -1,0 +1,14 @@
+{
+  "job_id": "94a6b55be968486da7d36bcdbfa709dd",
+  "status": "done",
+  "input_count": 5,
+  "inputs": [
+    "20260210_225853.jpg",
+    "20260210_225854.jpg",
+    "20260210_225856.jpg",
+    "20260210_225857.jpg",
+    "20260210_225859.jpg"
+  ],
+  "rq_id": "c1e8fce3-48af-4ef7-9bf2-5ce273b5197e",
+  "points_ply": "data/jobs/94a6b55be968486da7d36bcdbfa709dd/output/points.ply"
+}

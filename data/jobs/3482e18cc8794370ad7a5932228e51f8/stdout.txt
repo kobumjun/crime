@@ -1,0 +1,6 @@
+[1/4] feature_extractor (CPU default)
+[2/4] exhaustive_matcher (CPU default)
+[3/4] mapper
+[4/4] model_converter → points.ply
+✅ DONE
+Output: /Users/gohyeonjun/projects/crime/data/jobs/3482e18cc8794370ad7a5932228e51f8/output/points.ply
