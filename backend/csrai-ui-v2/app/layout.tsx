@@ -1,17 +1,14 @@
+import "./globals.css";
+
 export const metadata = {
-  title: "CSRAI UI V2"
+  title: "CSRAI",
+  description: "Crime Scene Reconstruction AI - Demo UI",
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="ko">
-      <body style={{ margin: 0, background: "#0b0d10", color: "white" }}>
-        {children}
-      </body>
+    <html lang="en">
+      <body>{children}</body>
     </html>
   );
 }
